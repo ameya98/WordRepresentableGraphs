@@ -1,7 +1,7 @@
 """"
 Author: Ameya Daigavane
 Date: 29th December, 2017
-Title: Algorithm to check if 2-uniform word represents a given graph.
+Title: The Graphcheck Algorithm for 2-uniform words.
 Code Version: 1.0 (runs on Python 3.5.2)
 """
 
